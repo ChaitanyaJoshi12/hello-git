@@ -1,1 +1,1 @@
-CONFLICT DEMO
+version A
